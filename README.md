@@ -1,2 +1,3 @@
-portfolio
-hello there👋👋 Abhay this side portfolio wedsite is under built🏗️🚧 tq for being here :) will get back to the website as soon as possible
+#portfolio
+Hello there👋👋, Abhay this side! My portfolio website is under built 🏗️🚧 tq for being here :) 
+will get back to the website as soon as possible
